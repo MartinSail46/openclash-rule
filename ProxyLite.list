@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,customer.io
 DOMAIN-SUFFIX,sqlgpt.cn
 DOMAIN-SUFFIX,steampowered.com
 
+#中文 DOS 游戏
+DOMAIN-SUFFIX,dos-bin.zczc.cz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
