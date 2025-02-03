@@ -21,8 +21,6 @@ IP-CIDR,114.114.115.115/32,no-resolve
 DOMAIN-SUFFIX,aqara.com
 DOMAIN-SUFFIX,aqara.cn
 
-#友盟（网上国网）
-DOMAIN-SUFFIX,umeng.com
 
 # 360
 DOMAIN-SUFFIX,360.com
