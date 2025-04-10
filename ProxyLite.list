@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,github.com
 #中文 DOS 游戏
 DOMAIN-SUFFIX,dos-bin.zczc.cz
 
+#UniFi
+DOMAIN-SUFFIX,store.ui.com.cn
+
 #群晖NAS
 DOMAIN-SUFFIX,synology.com
 
