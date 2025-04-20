@@ -17,6 +17,12 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+#家用
+DOMAIN-SUFFIX,fyf.fan
+DOMAIN-SUFFIX,nas.fyf.fan
+DOMAIN-SUFFIX,mf.fyf.fan
+DOMAIN-SUFFIX,op.fyf.fan
+
 # Aqara
 DOMAIN-SUFFIX,aqara.com
 DOMAIN-SUFFIX,aqara.cn
